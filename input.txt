@@ -1,0 +1,23 @@
+16
+ace
+bars
+barse
+bas
+base
+basem
+baso
+basom
+brace
+lace
+mace
+place
+plane
+planet
+race
+trace
+
+# max chains
+# bars -> barse -> base -> basem -> basom
+# bars -> barse -> base -> baso -> basom
+# bars -> bas -> base -> basem -> basom
+# bars -> bas -> base -> baso -> basom
